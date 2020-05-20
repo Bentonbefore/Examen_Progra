@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\loran\source\repos\Proyecto_Progra\Proyecto_Progra\Main.cpp(49,22): warning C4244:  'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+C:\Users\loran\source\repos\Proyecto_Progra\Proyecto_Progra\Main.cpp(49,15): warning C4244:  'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+C:\Users\loran\source\repos\Proyecto_Progra\Proyecto_Progra\Main.cpp(59,50): warning C4244:  'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\loran\source\repos\Proyecto_Progra\Proyecto_Progra\Main.cpp(59,25): warning C4244:  'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto_Progra.vcxproj -> C:\Users\loran\source\repos\Proyecto_Progra\Debug\Proyecto_Progra.exe
